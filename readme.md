@@ -10,7 +10,7 @@
 
 ## Description
 
->AThis project is a landing page for a company that provides hosting services to other businesses. This project is created by using `HTML` and `CSS`. This project is hosted on Netlify.
+>This project is a landing page for a company that provides hosting services to other businesses. This project is created by using `HTML` and `CSS`. This project is hosted on Netlify.
 
 **Created By**: Syed Ibrahim Shikalgar
 
