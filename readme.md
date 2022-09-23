@@ -28,6 +28,8 @@
 
 - How to create footer of a web page
 
--How to work with SVG images to make web pages look beautiful
+- How to work with SVG images to make web pages look beautiful
 
-## [Live-link]() of the project
+- How to use `BOX-SHADOW` property
+
+## [Live-link](https://landingpage-of-hosting.netlify.app/) of the project
