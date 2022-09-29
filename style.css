@@ -46,7 +46,7 @@ body {
     font-weight: 600;
 }
 
-.nav-list-items:nth-child(7) {
+.nav-list-items1 {
     padding: 0 20px;
     background-color: #FDFEFF;
     color: #0694F1;
@@ -593,4 +593,213 @@ ion-icon {
 .main6221 p {
     color: #fff;
     font-weight: lighter;
+}
+
+@media only screen and (max-width: 680px) {
+    .nav img {
+        height: 30px;
+        margin-left: -80px;
+    }
+    .nav-list-items {
+        display: none;
+    }
+
+    .nav button {
+        margin-right: -40px;
+    }
+
+    .main1 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .image1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .image1 img {
+        height: 15rem;
+    }
+
+    .text1 {
+        margin-left: -40px;
+        margin-top: 30px;
+    }
+
+    .text1 h2 {
+        font-size: 25px;
+    }
+
+    .text1 p {
+        font-size: 12px;
+    }
+
+    .text1 button {
+        padding: 0.7rem;
+        font-size: 15px;
+    }
+
+    .main2 {
+        display: flex;
+        flex-direction: column;
+        margin-top: 90px;
+    }
+
+    .image2 {
+        display: flex;
+        margin-left: -40px;
+    }
+
+    .image2 img {
+        height: 15rem;
+    }
+
+    .text2 {
+        margin-left: -40px;
+        margin-top: 30px;
+    }
+
+    .text2 h2 {
+        font-size: 25px;
+    }
+
+    .text2 p {
+        font-size: 12px;
+    }
+
+    .text2 button {
+        padding: 0.7rem;
+        font-size: 15px;
+    }
+
+    .main3 {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-bottom: -50px;
+    }
+
+    .image3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .image3 img {
+        height: 18rem;
+    }
+
+    .text3 {
+        margin-left: -40px;
+    }
+
+    .text3 h2 {
+        font-size: 25px;
+    }
+
+    .text3 p {
+        font-size: 12px;
+    }
+
+    .text3 button {
+        padding: 0.7rem;
+        font-size: 15px;
+    }
+
+    .text4 {
+        margin-left: 20px;
+    }
+
+    .text41 h2 {
+        font-size: 25px;
+        margin-top: 35px;
+        margin-right: 80px;
+    }
+
+    .text42 p {
+        margin-right: -20px;
+        font-size: 12px;
+    }
+
+    .main4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main41 {
+        margin-bottom: 30px;
+    }
+
+    .main5 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main51 {
+        margin-bottom: 30px;
+    }
+
+    .main61 {
+        text-align: center;
+    }
+
+    .main61 h2 {
+        font-size: 25px;
+    }
+
+    .main62 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main7 h1 {
+        font-size: 25px;
+    }
+
+    .main7 p {
+        font-size: 12px;
+    }
+
+    .main8 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main81 {
+        margin-bottom: 30px;
+    }
+
+    .main9 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main91 {
+        margin-bottom: 30px;
+    }
+
+    .main10 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main101 h1 {
+        font-size: 25px;
+    }
+
+    .main101 p {
+        font-size: 12px;
+    }
+
+    .main102 button {
+        margin-top: 30px;
+    }
+
+    .main11 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main111 p {
+        margin-bottom: 30px;
+    }
 }
