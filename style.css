@@ -648,11 +648,11 @@ ion-icon {
 
     .image2 {
         display: flex;
-        margin-left: -40px;
+        justify-content: flex-start;
     }
 
     .image2 img {
-        height: 15rem;
+        height: 12rem;
     }
 
     .text2 {
@@ -766,6 +766,8 @@ ion-icon {
 
     .main81 {
         margin-bottom: 30px;
+        width: 18rem;
+        margin-left: -20px;
     }
 
     .main9 {
@@ -797,6 +799,7 @@ ion-icon {
     .main11 {
         display: flex;
         flex-wrap: wrap;
+        margin-bottom: 30px;
     }
 
     .main111 p {
