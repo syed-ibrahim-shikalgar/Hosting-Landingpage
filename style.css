@@ -649,6 +649,7 @@ ion-icon {
     .image2 {
         display: flex;
         justify-content: flex-start;
+        margin-left: -30px;
     }
 
     .image2 img {
@@ -766,8 +767,6 @@ ion-icon {
 
     .main81 {
         margin-bottom: 30px;
-        width: 18rem;
-        margin-left: -20px;
     }
 
     .main9 {
